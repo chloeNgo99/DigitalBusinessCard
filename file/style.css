@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+    color:white;
+    background: #23252C;
+    
+}
+
+.pageContainer{
+    max-width: 317px;
+    margin: auto;
+    height: 1060px;
+    border-radius: 20px;
+    background: #1A1B21;
+    color: white;
+    padding-block: 20px;
+}
+
+header > img{
+    border-radius: 20px 20px 0px 0px;
+    margin-top: -20px;
+    width: 317px;
+    height: 317px;
+    object-fit: cover;
+}
+
+.info{
+    color: black;
+    text-align: center;
+    padding-block: 20px;
+}
+
+.info > h2{
+    margin: 0;
+    color: white;
+    font-family: Inter;
+    font-style: Bold;
+    font-size: 25px;
+    height: 30px;
+    vertical-align: top;
+}
+
+.info >h4{
+    margin: 5px;
+    font-family: Inter;
+    font-style: Regular;
+    font-size: 10.8px;
+    height: 15px;
+    vertical-align: top;
+    color: #F3BF99;
+}
+
+.info > a{
+    text-decoration: none;
+    color : #8749bc;
+}
+
+.headerButton{
+    padding-top: 10px;
+    margin: auto;
+    width: 200px;
+}
+
+.emailButton{
+    background: url("./emailButton.jpeg") no-repeat;
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 0px;
+}
+
+.bodyContain {
+    padding: 0px 20px;
+    max-width: 300px;
+    margin: auto;
+    margin-top: -15px;
+}
+
+.bodyContain > h3{
+    font-family: Inter;
+    font-style: Bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #f7d8b5;
+}
+
+.bodyContain > p{
+    font-family: lora;
+    font-style: Regular;
+    font-size: 12.24px;
+    line-height: 15px;
+}
+
+footer{
+    padding: 30px 20px;
+    margin-top: 40px;
+    background: #161619;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.socialButton{
+    display: flex;
+    justify-content: space-between;
+}
+
+.socialButton > button{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: 0px;
+}
+
+.facebookButton{
+    background: url("./facebookButton.jpeg") no-repeat;
+    background-size: cover;
+}
+
+.githubButton{
+    background: url("./githubButton.jpeg") no-repeat;
+    background-size: cover;
+}
+
+.wayUpButton{
+    background: url("./wayUpButton.jpeg") no-repeat;
+    background-size: cover;
+}
