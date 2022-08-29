@@ -1,9 +1,10 @@
 # DigitalBusinessCard
 
 ## Project Introduction
-Creating a digital business card with basic React components.
+Create a digital business card with light and dark mode intergate.
 
-![Digital Business Card Image](https://github.com/chloeNgo99/DigitalBusinessCard/blob/main/file/images/digitalCard.png)
+![Digital Business Card Image](https://github.com/chloeNgo99/DigitalBusinessCard/blob/main/file/images/darkmode.png)
+![Digital Business Card Image](https://github.com/chloeNgo99/DigitalBusinessCard/blob/main/file/images/lightmode.png)
 
 ## Buid With
 Language: HTML, CSS, Javascript
