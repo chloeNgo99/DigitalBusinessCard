@@ -1,7 +1,7 @@
 # DigitalBusinessCard
 
 ## Project Introduction
-Create a digital business card with light and dark mode intergate.
+Create a digital business card with light and dark mode intergation.
 
 ![Digital Business Card Image](https://github.com/chloeNgo99/DigitalBusinessCard/blob/main/file/images/darkmode.png)
 ![Digital Business Card Image](https://github.com/chloeNgo99/DigitalBusinessCard/blob/main/file/images/lightmode.png)
